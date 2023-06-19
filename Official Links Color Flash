@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Alvalanker Website</title>
+    <style>
+        body {
+            background-color: #191919;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #ffa700;
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            color: #ffa700;
+            font-size: 20px;
+            margin-top: 30px;
+        }
+
+        p {
+            margin: 10px 0;
+        }
+
+        ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        li {
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: #fff;
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+
+        @keyframes flash {
+            0%, 100% {
+                color: #00bfff;
+            }
+            25% {
+                color: #ffff00;
+            }
+            50% {
+                color: #ff0000;
+            }
+            75% {
+                color: #800080;
+            }
+        }
+
+        a.flash-link {
+            animation: flash 2s infinite;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Alvalanker</h1>
+    <p>
+        <strong>BASIC INFO:</strong>
+    </p>
+    <ul>
+        <li><a class="flash-link" href="https://linktr.ee/alvalanker">On tour now</a></li>
+        <li><a class="flash-link" href="https://alvalanker.godaddysites.com/">New album and single OUT NOW</a></li>
+        <li><a class="flash-link" href="https://open.spotify.com/artist/12O6L9BEaefqiZ5eQ2XD9R">New album in the works</a></li>
+        <li><a class="flash-link" href="#">Follow for Follow</a></li>
+    </ul>
+
+    <p>
+        <strong>SPOTIFY ALBUMS:</strong>
+    </p>
+    <ul>
+        <li><a class="flash-link" href="https://open.spotify.com/album/6DHBl2eCeUHuIgf13m316f">The Cordicidans</a></li>
+        <li><a class="flash-link" href="https://open.spotify.com/album/3in3anvIFMBbtwmBMjl9WG">ISAIF</a></li>
+        <li><a class="flash-link" href="https://open.spotify.com/album/4JaskD1F6B8NfylqaxuOkj">RMGC 1</a></li>
+        <li><a class="flash-link" href="https://open.spotify.com/album/5THISnzkDqdhGS236gGTI4">RMGC 2</a></li>
+    </ul>
+
+    <p>
+        <strong>Top Tracks:</strong>
+    </p>
+    <ul>
+        <li><a class="flash-link" href="https://open.spotify.com/track/3BFUQp2DBjEWu8VPA7K8FN?si=71c07ee17c7449ab">The Cordicidans</a></li>
+        <li><a class="flash-link" href="https://open.spotify.com/track/6ixufZUXAtboJktmOQYP3l">Red Pills</a></li>
+        <li><a class="flash-link" href="https://open.spotify.com/track/472PSIxbmFZC7NOFZxpdU1?si=1c536b87a2a944bf">What Dreams Taste Like</a></li>
+        <li><a class="flash-link" href="https://open.spotify.com/track/6JfSakNuZuxIyPV56Rjrvs?si=296faa7cc9e64df9">Girl w the Gun</a></li>
+        <li><a class="flash-link" href="https://open.spotify.com/track/472PSIxbmFZC7NOFZxpdU1?si=1c536b87a2a944bf">Dreams</a></li>
+        <li><a class="flash-link" href="https://open.spotify.com/track/6ZxHMAbBFnYN3lO5x9w9M1?si=ee7d97b3a01a412a">Dead in the Park</a></li>
+    </ul>
+
+    <p>
+        <strong>YOUTUBE:</strong>
+    </p>
+    <ul>
+        <li><a class="flash-link" href="https://www.youtube.com/@alvalankerofficial/featured">Visit Alvalanker's YouTube Channel</a></li>
+    </ul>
+
+    <p>
+        <strong>YOUTUBE PLAYLISTS:</strong>
+    </p>
+    <ul>
+        <li><a class="flash-link" href="https://www.youtube.com/@alvalankerofficial/playlists">All Playlists</a></li>
+        <li><a class="flash-link" href="https://youtube.com/playlist?list=PL2hNNTCPsu2PZoFDWfeCIaDZ_TbWqvTSx">Original Alvalanker Songs</a></li>
+        <li><a class="flash-link" href="https://www.youtube.com/playlist?list=PL2hNNTCPsu2OJfzR12_tGMZ-mRXiDLGwB">Original Music Videos</a></li>
+        <li><a class="flash-link" href="https://www.youtube.com/playlist?list=PL2hNNTCPsu2MWQwcZVkfJJhxsjKs8vMma">Cover Songs</a></li>
+        <li><a class="flash-link" href="https://www.youtube.com/playlist?list=PL2hNNTCPsu2PKXJDbtp--NMIqp70kI5kI">On Tour/Live Performance</a></li>
+        <li><a class="flash-link" href="https://www.youtube.com/playlist?list=PL2hNNTCPsu2OexOTmQBKCeLyqmcqzjOwa">Gaming</a></li>
+        <li><a class="flash-link" href="https://www.youtube.com/playlist?list=PL2hNNTCPsu2PCi89zEEFem8SEYH3wWBny">Comedy</a></li>
+        <li><a class="flash-link" href="https://www.youtube.com/playlist?list=PL2hNNTCPsu2NANwRJQnKfN7FzmFn9srYE">Rare/Unreleased/Old Songs</a></li>
+    </ul>
+
+    <p>
+        <strong>GUITAR COVERS:</strong>
+    </p>
+    <ul>
+        <li><a class="flash-link" href="https://youtu.be/kY1Ah1DDnuU">Not Now</a></li>
+        <li><a class="flash-link" href="https://youtu.be/34r-fVTYF_o">Amoreena</a></li>
+        <li><a class="flash-link" href="https://youtu.be/B5V_k9iI6lM">What the Hell</a></li>
+        <li><a class="flash-link" href="https://youtu.be/da-zNjDZcfc">Secret Crowds</a></li>
+        <li><a class="flash-link" href="https://youtu.be/4sad1UDUwh4">Dont Change</a></li>
+        <li><a class="flash-link" href="https://youtu.be/Xok9glMTPdk">Rocky Theme</a></li>
+        <li><a class="flash-link" href="https://youtu.be/hzl3-_Z4Qr8">Flowers</a></li>
+        <li><a class="flash-link" href="https://youtu.be/zOs3Aby4FxQ">Nowhere Man</a></li>
+        <li><a class="flash-link" href="https://youtu.be/QmkabmUJNls">Harvester</a></li>
+        <li><a class="flash-link" href="https://youtu.be/FbeKL_5XGSk">Beautiful Girls</a></li>
+        <li><a class="flash-link" href="https://youtu.be/Me3GuqVrayQ">Track 1</a></li>
+        <li><a class="flash-link" href="https://youtu.be/jYRrY2gNXX0">Rust in Peace</a></li>
+    </ul>
+
+    <p>
+        <strong>OFFICIAL SONGS:</strong>
+    </p>
+    <ul>
+        <li><a class="flash-link" href="#">Song 1</a></li>
+        <li><a class="flash-link" href="#">Song 2</a></li>
+        <li><a class="flash-link" href="#">Song 3</a></li>
+    </ul>
+
+    <p>
+        <strong>OFFICIAL MUSIC VIDEOS:</strong>
+    </p>
+    <ul>
+        <li><a class="flash-link" href="#">Video 1</a></li>
+        <li><a class="flash-link" href="#">Video 2</a></li>
+        <li><a class="flash-link" href="#">Video 3</a></li>
+    </ul>
+
+    <p>
+        <strong>Alvalanker Playlists:</strong>
+    </p>
+    <ul>
+        <li><a class="flash-link" href="https://open.spotify.com/playlist/3T0WpZbDT9ODqWa3fwNfs7">Alvalanker Instrumentals</a></li>
+        <li><a class="flash-link" href="https://open.spotify.com/playlist/37i9dQZF1E4BxZFfK81B3M">Alvalanker Radio</a></li>
+    </ul>
+</body>
+
+</html>
